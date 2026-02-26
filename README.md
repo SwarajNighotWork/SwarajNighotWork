@@ -1,20 +1,16 @@
 <!--
-    Hey there, I'm Swaraj Nighot 👋
-    Thanks for checking my profile!
-    If you like my work, consider connecting with me 🚀
+    Hey there 👋 I'm Swaraj Nighot
+    Thanks for visiting my GitHub profile!
+    Feel free to explore my projects and connect with me 🚀
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=130&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=140&section=header&text=Swaraj%20Nighot&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
-# Hey there, I'm Swaraj Nighot 👋
+# 👋 Hey, I'm Swaraj Nighot
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3500&pause=800&color=6499E9&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Angular+Developer;GIS+%26+Government+Tech+Specialist;Building+Scalable+Digital+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=23&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Angular+Specialist;GIS+%26+Government+Tech;Building+Scalable+Digital+Systems" />
 
 </div>
 
@@ -22,14 +18,14 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750237-12c0f4e3-3f68-4fa6-8b28-2c0efbe7e29d.gif" width="320" alt="coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750237-12c0f4e3-3f68-4fa6-8b28-2c0efbe7e29d.gif" width="300" alt="coding gif"/>
 
 - 🧑‍💻 Front-End Developer with 2+ years of experience  
 - 🏛 Working on Government & Enterprise Systems  
 - 🗺 Specialized in GIS-enabled infrastructure portals  
 - 🔗 Strong in REST API integrations  
-- 🎯 Focused on scalable, secure & performance-driven UI  
-- 🚀 Currently enhancing advanced React architecture  
+- ⚡ Focused on scalable, secure & performance-driven UI  
+- 🚀 Currently advancing in system architecture & AWS  
 
 <br clear="right"/>
 
@@ -39,8 +35,7 @@
 
 <div align="center">
 
-🔗 **Live Website:**  
-### 👉 https://swarajnighot.netlify.app/
+### 🔗 https://swarajnighot.netlify.app/
 
 </div>
 
@@ -58,7 +53,7 @@
 
 ## 🏢 Work Experience
 
-### Maharashtra Remote Sensing Application Centre (MRSAC)
+### Maharashtra Remote Sensing Application Centre (MRSAC)  
 **Assistant Programmer**  
 📍 Nagpur, Maharashtra  
 🗓 Feb 2023 – Present  
@@ -67,26 +62,26 @@
 - Built GIS-enabled infrastructure systems  
 - Integrated real-time REST APIs  
 - Conducted usability, regression & functional testing  
-- Collaborated with analysts & state-level stakeholders  
+- Collaborated with GIS analysts & state stakeholders  
 
 ---
 
 ## 🚀 Key Projects
 
 ### 🗺 MHUID – Maharashtra’s Unique Infrastructure ID
-- Geo-tagged asset registry system
-- Asset lifecycle tracking modules
-- GIS-based visualization
-- Integrated with bill & tender workflows
+- Geo-tagged asset registry system  
+- Asset lifecycle tracking modules  
+- GIS-based visualization  
+- Integrated bill & tender workflows  
 
 ### ⚓ JNPA Portal
-- Enterprise UI development
-- Performance optimization
-- Accessibility compliance
+- Enterprise UI development  
+- Performance optimization  
+- Accessibility compliance  
 
 ### 🌾 Scarcity Portal
-- Drought monitoring system
-- UI enhancements & reporting workflows
+- Drought monitoring system  
+- UI enhancement & reporting workflows  
 
 ---
 
@@ -139,4 +134,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=110&section=footer" />
