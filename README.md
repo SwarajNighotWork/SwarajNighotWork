@@ -1,41 +1,61 @@
 <!--
-    Hey there 👋 I'm Swaraj Nighot
-    Thanks for visiting my GitHub profile!
-    Feel free to explore my projects and connect with me 🚀
+  👋 Welcome to my GitHub Profile!
+  I'm Swaraj Nighot – Front-End Developer | GIS & GovTech Enthusiast
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=140&section=header&text=Swaraj%20Nighot&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=130&section=header&text=Swaraj%20Nighot&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
-# 👋 Hey, I'm Swaraj Nighot
+# 👋 Hi, I'm Swaraj Nighot
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=23&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Angular+Specialist;GIS+%26+Government+Tech;Building+Scalable+Digital+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=Front-End+Developer;GIS+%26+Government+Tech+Specialist;Building+Scalable+Digital+Systems;React+%E2%80%A2+Angular+%E2%80%A2+Node.js" />
+
+📍 Pune, India  
+🌐 [Portfolio](https://swarajnighot.netlify.app/)  
+📧 [swarajnighot@gmail.com](mailto:swarajnighot@gmail.com)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750237-12c0f4e3-3f68-4fa6-8b28-2c0efbe7e29d.gif" width="300" alt="coding gif"/>
+```yaml
+Name: Swaraj Nighot
+Role: Assistant Programmer @ MRSAC
+Experience: 2+ Years
+Specialization: Front-End Development & GIS Portals
+Focus: Scalable GovTech & Enterprise Systems
+```
 
-- 🧑‍💻 Front-End Developer with 2+ years of experience  
-- 🏛 Working on Government & Enterprise Systems  
-- 🗺 Specialized in GIS-enabled infrastructure portals  
-- 🔗 Strong in REST API integrations  
-- ⚡ Focused on scalable, secure & performance-driven UI  
-- 🚀 Currently advancing in system architecture & AWS  
-
-<br clear="right"/>
+- 🏛 Developing large-scale government infrastructure systems  
+- 🗺 Building GIS-enabled asset monitoring platforms  
+- ⚡ Creating responsive, secure, performance-optimized UIs  
+- 🌱 Currently learning: DevOps, Advanced GIS Integrations, Next.js  
+- 🤝 Open to collaboration in GovTech & enterprise projects  
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect With Me
 
 <div align="center">
 
-### 🔗 https://swarajnighot.netlify.app/
+<a href="https://swarajnighot.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:swarajnighot@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/swarajnighot" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/swarajnighot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -44,44 +64,55 @@
 ## 💻 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,python,c,git,github,aws,mongodb&perline=7" />
-
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,nodejs,express,html,css,sass,git,github,aws,python,java,postgresql,mongodb&perline=8&theme=dark" />
 </div>
 
 ---
 
-## 🏢 Work Experience
+## 🔭 Featured Projects
 
-### Maharashtra Remote Sensing Application Centre (MRSAC)  
-**Assistant Programmer**  
-📍 Nagpur, Maharashtra  
-🗓 Feb 2023 – Present  
+<details open>
+<summary><b>🗺 MHUID – Maharashtra's Unique Infrastructure ID</b></summary>
 
-- Developed large-scale government web applications  
-- Built GIS-enabled infrastructure systems  
-- Integrated real-time REST APIs  
-- Conducted usability, regression & functional testing  
-- Collaborated with GIS analysts & state stakeholders  
+- Geo-tagged statewide infrastructure registry  
+- Asset lifecycle tracking & GIS visualization  
+- Integrated with bill & tender management workflows  
+- Tech: React • REST APIs • GIS Platforms • Responsive UI  
+
+</details>
+
+<details>
+<summary><b>⚓ Jawaharlal Nehru Port Authority (JNPA) Portal</b></summary>
+
+- Developed performance-optimized enterprise UI  
+- Improved accessibility & cross-browser compatibility  
+- Conducted usability & functional testing  
+- Tech: Angular • CSS3 • Agile Workflow  
+
+</details>
+
+<details>
+<summary><b>🌾 Scarcity Portal – Drought Monitoring System</b></summary>
+
+- Decision-support portal for drought assessment  
+- Real-time dashboards for government stakeholders  
+- Tech: JavaScript • Chart.js • GIS Layers • REST Services  
+
+</details>
 
 ---
 
-## 🚀 Key Projects
+## 🏢 Professional Experience
 
-### 🗺 MHUID – Maharashtra’s Unique Infrastructure ID
-- Geo-tagged asset registry system  
-- Asset lifecycle tracking modules  
-- GIS-based visualization  
-- Integrated bill & tender workflows  
+**Assistant Programmer**  
+Maharashtra Remote Sensing Application Centre (MRSAC)  
+Nagpur, Maharashtra | Feb 2023 – Present  
 
-### ⚓ JNPA Portal
-- Enterprise UI development  
-- Performance optimization  
-- Accessibility compliance  
-
-### 🌾 Scarcity Portal
-- Drought monitoring system  
-- UI enhancement & reporting workflows  
+- Developed responsive government web applications  
+- Built GIS-enabled infrastructure monitoring systems  
+- Integrated RESTful APIs for real-time data visualization  
+- Conducted regression & usability testing  
+- Collaborated with GIS analysts & state-level stakeholders  
 
 ---
 
@@ -89,42 +120,32 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=swarajnighot&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajnighot&layout=compact&theme=github_dark&hide_border=true" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:swarajnighot@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://swarajnighot.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=swarajnighot&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+## 🎓 Education
 
-- 🚀 Scale enterprise React architectures  
-- 🌍 Advance GIS visualization systems  
-- ☁ Strengthen AWS & backend integrations  
-- 🏛 Contribute to impactful public infrastructure tech  
+**Master of Computer Applications (MCA)**  
+Christ (Deemed to be University)
+
+**Bachelor of Computer Applications (BCA)**  
+City Premier College, Nagpur
+
+---
+
+## 🎯 Career Focus
+
+- 🚀 Scalable Front-End Architectures  
+- 🌍 GIS-Based Visualization Systems  
+- ☁ Cloud Integration & DevOps  
+- 🏛 Impactful Public Infrastructure Technology  
 
 ---
 
@@ -132,6 +153,10 @@
 
 ### ⭐ “Code that powers infrastructure. UI that serves people.”
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=swarajnighot&label=Profile+Views&color=4A90E2&style=flat-square" />
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer" />
