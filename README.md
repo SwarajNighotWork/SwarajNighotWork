@@ -1,187 +1,129 @@
 <!-- ===================================================== -->
-<!--                 📓 SWARAJ NIGHOT                      -->
-<!--               Developer Notebook README               -->
+<!--                  SWARAJ NIGHOT                        -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-# 📓 Developer Notebook
-## SWARAJ NIGHOT
+# Swaraj Nighot
+### Front-End Developer • GIS Systems • Government Tech
 
-🧑‍💻 Front-End Developer • GIS Systems • Government Tech  
 📍 Pune, India  
 📧 swarajnighot@gmail.com  
 📱 +91 8308016768  
 
-🌐 **Live Portfolio**  
-🔗 https://swarajnighot.netlify.app/
+🌐 **Portfolio:**  
+👉 https://swarajnighot.netlify.app/
 
 ---
 
-*"Designing scalable digital systems for real-world impact."*
+*"Building scalable digital infrastructure for real-world impact."*
 
 </div>
 
 ---
 
-<br>
+## 📘 About Me
 
-# 📖 Page 01 — About The Developer
+Front-End Developer with **2+ years of experience** building scalable, responsive, and secure web applications for government and enterprise systems.
 
-```
-Name        : Swaraj Nighot
-Role        : Front-End Developer
-Experience  : 2+ Years
-Location    : Pune, India
-Specialty   : React, Angular & GIS-Based Systems
-```
+I specialize in:
 
-I specialize in building **secure, scalable, and user-friendly web applications** used in government and enterprise environments.
-
-✔ Responsive & performance-optimized UI  
-✔ GIS-enabled infrastructure platforms  
-✔ REST API integrations  
-✔ Enterprise-level usability testing  
-✔ Cross-functional collaboration  
+- Modern UI development with React & Angular  
+- GIS-enabled infrastructure platforms  
+- REST API integrations  
+- Enterprise-grade usability & testing  
+- Cross-team collaboration with analysts & stakeholders  
 
 ---
 
-<br>
+## 🛠 Technical Skills
 
-# 📖 Page 02 — Technical Notebook
+### Frontend
+- HTML5  
+- CSS3 (Sass / LESS)  
+- JavaScript (ES6+)  
+- React.js  
+- Angular  
 
-## 🎨 Frontend Layer
-```
-HTML5
-CSS3 (Sass / LESS)
-JavaScript (ES6+)
-React.js
-Angular
-```
+### Backend
+- Node.js  
+- Express.js  
+- RESTful APIs  
 
-## ⚙ Backend Layer
-```
-Node.js
-Express.js
-RESTful APIs
-```
+### Programming
+- JavaScript  
+- Python  
+- C  
 
-## 🧠 Programming Languages
-```
-JavaScript
-Python
-C
-```
+### Tools & Platforms
+- Git & GitHub  
+- AWS  
+- jQuery  
+- Cross-Browser Compatibility  
+- Agile Workflow  
 
-## 🔧 Tools & Platforms
-```
-Git & GitHub
-AWS
-jQuery
-Cross-Browser Compatibility
-Agile Workflow
-```
-
-## 🌍 Domain Expertise
-```
-GIS Applications
-Government Portals
-Asset Management Systems
-Infrastructure Monitoring Systems
-```
+### Domain Knowledge
+- GIS Applications  
+- Government Portals  
+- Asset Management Systems  
+- Infrastructure Monitoring Systems  
 
 ---
 
-<br>
+## 💼 Work Experience
 
-# 📖 Page 03 — Work Log
-
-## 🏢 Maharashtra Remote Sensing Application Centre (MRSAC)
-Assistant Programmer  
+### Maharashtra Remote Sensing Application Centre (MRSAC)  
+**Assistant Programmer**  
 Nagpur, Maharashtra  
 Feb 2023 – Present  
 
-### 📝 Responsibilities Recorded
+**Key Contributions:**
 
-- Developed responsive government platforms using React, Angular, HTML, CSS, and JavaScript.
-- Built GIS-enabled portals supporting statewide infrastructure planning.
-- Integrated RESTful APIs for real-time data visualization.
+- Developed and maintained responsive government web applications.
+- Built GIS-enabled portals for statewide infrastructure planning.
+- Integrated REST APIs for real-time visualization dashboards.
 - Conducted functional, regression, and usability testing.
-- Collaborated with GIS analysts, backend engineers, and government stakeholders.
-- Delivered production-ready, secure digital systems.
+- Collaborated with GIS analysts, backend developers, and government stakeholders.
 
 ---
 
-<br>
+## 🚀 Key Projects
 
-# 📖 Page 04 — Project Records
+### MHUID – Maharashtra’s Unique Infrastructure ID (Mahasampatti / MARS)
 
----
-
-## 🗺 MHUID — Maharashtra’s Unique Infrastructure ID  
-(Mahasampatti / MARS)
-
-### Objective
-Centralized geo-tagged asset registry for statewide infrastructure.
-
-### Contributions
-- Developed frontend modules for:
-  - Asset Mapping
-  - Lifecycle Tracking
-  - GIS-Based Visualization
+- Contributed to a centralized geo-tagged asset registry system.
+- Developed frontend modules for asset mapping and lifecycle tracking.
 - Integrated MHUID into bill management and tender workflows.
-- Enabled infrastructure data standardization across departments:
-  - PWD
-  - Water Resources
-  - Rural Development
-  - Urban Local Bodies
-
-### Impact
-✔ Unified asset identification system  
-✔ Improved transparency and monitoring  
+- Enabled data standardization across departments including PWD, Water Resources, Rural Development, and Urban Local Bodies.
 
 ---
 
-## ⚓ Jawaharlal Nehru Port Authority (JNPA) Portal
+### Jawaharlal Nehru Port Authority (JNPA) Portal
 
-### Contributions
-- Developed performance-optimized UI components.
-- Enhanced accessibility compliance.
-- Conducted enterprise-level usability testing.
-
-### Result
-✔ Improved user experience  
-✔ High-performance interface  
+- Developed performance-optimized and accessible UI components.
+- Conducted usability and functional testing.
+- Ensured enterprise compliance and smooth user experience.
 
 ---
 
-## 🌾 Scarcity Portal
+### Scarcity Portal
 
-### Purpose
-Drought monitoring and decision-support system.
-
-### Contributions
-- Assisted development and UI enhancement.
-- Improved reporting workflows.
-- Strengthened system responsiveness.
+- Assisted in development of a drought monitoring and decision-support system.
+- Improved UI responsiveness and reporting workflows.
 
 ---
 
-<br>
+## 🎓 Education
 
-# 📖 Page 05 — Education Archive
-
-🎓 Master of Computer Applications (MCA)  
+**Master of Computer Applications (MCA)**  
 Christ (Deemed to be University)
 
-🎓 Bachelor of Computer Applications (BCA)  
+**Bachelor of Computer Applications (BCA)**  
 City Premier College, Nagpur
 
 ---
 
-<br>
-
-# 📖 Page 06 — Certifications Ledger
+## 📜 Certifications
 
 - The Complete 2024 Web Development Bootcamp  
 - Python Programming MOOC (2022)  
@@ -191,49 +133,20 @@ City Premier College, Nagpur
 
 ---
 
-<br>
+## 📌 Portfolio
 
-# 📖 Page 07 — Live Portfolio Extension
+For detailed projects, UI previews, and work samples:
 
-🌐 **Visit My Portfolio**  
-https://swarajnighot.netlify.app/
-
-This portfolio includes:
-
-✔ UI/UX-focused project showcase  
-✔ Technology stack details  
-✔ Professional summary  
-✔ Contact information  
-✔ Live representation of my work  
+🔗 https://swarajnighot.netlify.app/
 
 ---
-
-<br>
-
-# 📖 Page 08 — Developer Philosophy
-
-```
-Write Clean Code.
-Design Scalable Systems.
-Build for Real-World Impact.
-Focus on Performance.
-Collaborate Effectively.
-```
-
----
-
-<br>
 
 <div align="center">
 
-## 📬 Let's Collaborate
+### Let’s Connect 🤝
 
-Interested in working on:
+Open to collaborations in:
 
-Government Tech • GIS Platforms • Enterprise Systems • Frontend Architecture
-
-Reach out and let’s build something impactful 🚀
+Government Tech • GIS Platforms • Enterprise Dashboards • Frontend Architecture
 
 </div>
-
-<!-- ================= END OF NOTEBOOK ================= -->
