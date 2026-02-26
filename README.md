@@ -1,152 +1,142 @@
-<!-- ===================================================== -->
-<!--                  SWARAJ NIGHOT                        -->
-<!-- ===================================================== -->
+<!--
+    Hey there, I'm Swaraj Nighot 👋
+    Thanks for checking my profile!
+    If you like my work, consider connecting with me 🚀
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=130&section=header"/>
 
 <div align="center">
 
-# Swaraj Nighot
-### Front-End Developer • GIS Systems • Government Tech
+# Hey there, I'm Swaraj Nighot 👋
 
-📍 Pune, India  
-📧 swarajnighot@gmail.com  
-📱 +91 8308016768  
+</div>
 
-🌐 **Portfolio:**  
-👉 https://swarajnighot.netlify.app/
+<div align="center">
 
----
-
-*"Building scalable digital infrastructure for real-world impact."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3500&pause=800&color=6499E9&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Angular+Developer;GIS+%26+Government+Tech+Specialist;Building+Scalable+Digital+Systems" />
 
 </div>
 
 ---
 
-## 📘 About Me
+## 💫 About Me
 
-Front-End Developer with **2+ years of experience** building scalable, responsive, and secure web applications for government and enterprise systems.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750237-12c0f4e3-3f68-4fa6-8b28-2c0efbe7e29d.gif" width="320" alt="coding gif"/>
 
-I specialize in:
+- 🧑‍💻 Front-End Developer with 2+ years of experience  
+- 🏛 Working on Government & Enterprise Systems  
+- 🗺 Specialized in GIS-enabled infrastructure portals  
+- 🔗 Strong in REST API integrations  
+- 🎯 Focused on scalable, secure & performance-driven UI  
+- 🚀 Currently enhancing advanced React architecture  
 
-- Modern UI development with React & Angular  
-- GIS-enabled infrastructure platforms  
-- REST API integrations  
-- Enterprise-grade usability & testing  
-- Cross-team collaboration with analysts & stakeholders  
-
----
-
-## 🛠 Technical Skills
-
-### Frontend
-- HTML5  
-- CSS3 (Sass / LESS)  
-- JavaScript (ES6+)  
-- React.js  
-- Angular  
-
-### Backend
-- Node.js  
-- Express.js  
-- RESTful APIs  
-
-### Programming
-- JavaScript  
-- Python  
-- C  
-
-### Tools & Platforms
-- Git & GitHub  
-- AWS  
-- jQuery  
-- Cross-Browser Compatibility  
-- Agile Workflow  
-
-### Domain Knowledge
-- GIS Applications  
-- Government Portals  
-- Asset Management Systems  
-- Infrastructure Monitoring Systems  
+<br clear="right"/>
 
 ---
 
-## 💼 Work Experience
+## 🌐 Portfolio
 
-### Maharashtra Remote Sensing Application Centre (MRSAC)  
+<div align="center">
+
+🔗 **Live Website:**  
+### 👉 https://swarajnighot.netlify.app/
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,python,c,git,github,aws,mongodb&perline=7" />
+
+</div>
+
+---
+
+## 🏢 Work Experience
+
+### Maharashtra Remote Sensing Application Centre (MRSAC)
 **Assistant Programmer**  
-Nagpur, Maharashtra  
-Feb 2023 – Present  
+📍 Nagpur, Maharashtra  
+🗓 Feb 2023 – Present  
 
-**Key Contributions:**
-
-- Developed and maintained responsive government web applications.
-- Built GIS-enabled portals for statewide infrastructure planning.
-- Integrated REST APIs for real-time visualization dashboards.
-- Conducted functional, regression, and usability testing.
-- Collaborated with GIS analysts, backend developers, and government stakeholders.
+- Developed large-scale government web applications  
+- Built GIS-enabled infrastructure systems  
+- Integrated real-time REST APIs  
+- Conducted usability, regression & functional testing  
+- Collaborated with analysts & state-level stakeholders  
 
 ---
 
 ## 🚀 Key Projects
 
-### MHUID – Maharashtra’s Unique Infrastructure ID (Mahasampatti / MARS)
+### 🗺 MHUID – Maharashtra’s Unique Infrastructure ID
+- Geo-tagged asset registry system
+- Asset lifecycle tracking modules
+- GIS-based visualization
+- Integrated with bill & tender workflows
 
-- Contributed to a centralized geo-tagged asset registry system.
-- Developed frontend modules for asset mapping and lifecycle tracking.
-- Integrated MHUID into bill management and tender workflows.
-- Enabled data standardization across departments including PWD, Water Resources, Rural Development, and Urban Local Bodies.
+### ⚓ JNPA Portal
+- Enterprise UI development
+- Performance optimization
+- Accessibility compliance
 
----
-
-### Jawaharlal Nehru Port Authority (JNPA) Portal
-
-- Developed performance-optimized and accessible UI components.
-- Conducted usability and functional testing.
-- Ensured enterprise compliance and smooth user experience.
-
----
-
-### Scarcity Portal
-
-- Assisted in development of a drought monitoring and decision-support system.
-- Improved UI responsiveness and reporting workflows.
+### 🌾 Scarcity Portal
+- Drought monitoring system
+- UI enhancements & reporting workflows
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-**Master of Computer Applications (MCA)**  
-Christ (Deemed to be University)
+<div align="center">
 
-**Bachelor of Computer Applications (BCA)**  
-City Premier College, Nagpur
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-## 📜 Certifications
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
-- The Complete 2024 Web Development Bootcamp  
-- Python Programming MOOC (2022)  
-- Java Programming: Solving Problems with Software  
-- The Bits and Bytes of Computer Networking  
-- The Unix Workbench  
+</div>
 
 ---
 
-## 📌 Portfolio
+## 🤝 Connect With Me
 
-For detailed projects, UI previews, and work samples:
+<div align="center">
 
-🔗 https://swarajnighot.netlify.app/
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:swarajnighot@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://swarajnighot.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Scale enterprise React architectures  
+- 🌍 Advance GIS visualization systems  
+- ☁ Strengthen AWS & backend integrations  
+- 🏛 Contribute to impactful public infrastructure tech  
 
 ---
 
 <div align="center">
 
-### Let’s Connect 🤝
-
-Open to collaborations in:
-
-Government Tech • GIS Platforms • Enterprise Dashboards • Frontend Architecture
+### ⭐ “Code that powers infrastructure. UI that serves people.”
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=100&section=footer"/>
